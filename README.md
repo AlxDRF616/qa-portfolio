@@ -35,12 +35,12 @@ Repository: https://github.com/AlxDRF616/web-testing-saucedemo
 
 ### API Testing
 
-![API Bug](assets/api-highlight.png)
+![API Bug](assets/api/api-highlight.png)
 
 
 ### Web Testing
 
-![Web Bug](assets/web-highlight.png)
+![Web Bug](assets/web/web-highlight.png)
 
 
 ## Tools & Technologies
