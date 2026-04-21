@@ -31,6 +31,17 @@ Repository: https://github.com/AlxDRF616/api-testing-jsonplaceholder
 
 Repository: https://github.com/AlxDRF616/web-testing-saucedemo
 
+## Highlights
+
+### API Testing
+
+![API Bug](assets/api-highlight.png)
+
+
+### Web Testing
+
+![Web Bug](assets/web-highlight.png)
+
 
 ## Tools & Technologies
 
